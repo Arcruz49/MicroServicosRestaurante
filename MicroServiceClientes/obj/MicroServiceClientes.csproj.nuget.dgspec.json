@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServiceClientes\\MicroServiceClientes\\MicroServiceClientes.csproj": {}
+    "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceClientes\\MicroServiceClientes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServiceClientes\\MicroServiceClientes\\MicroServiceClientes.csproj": {
+    "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceClientes\\MicroServiceClientes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServiceClientes\\MicroServiceClientes\\MicroServiceClientes.csproj",
+        "projectUniqueName": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceClientes\\MicroServiceClientes.csproj",
         "projectName": "MicroServiceClientes",
-        "projectPath": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServiceClientes\\MicroServiceClientes\\MicroServiceClientes.csproj",
+        "projectPath": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceClientes\\MicroServiceClientes.csproj",
         "packagesPath": "C:\\Users\\Arthur Cruz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServiceClientes\\MicroServiceClientes\\obj\\",
+        "outputPath": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceClientes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

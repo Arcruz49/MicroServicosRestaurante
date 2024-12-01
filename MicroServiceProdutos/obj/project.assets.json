@@ -95,11 +95,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServiceClientes\\MicroServiceProdutos\\MicroServiceProdutos.csproj",
+      "projectUniqueName": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceProdutos\\MicroServiceProdutos.csproj",
       "projectName": "MicroServiceProdutos",
-      "projectPath": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServiceClientes\\MicroServiceProdutos\\MicroServiceProdutos.csproj",
+      "projectPath": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceProdutos\\MicroServiceProdutos.csproj",
       "packagesPath": "C:\\Users\\Arthur Cruz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServiceClientes\\MicroServiceProdutos\\obj\\",
+      "outputPath": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceProdutos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
