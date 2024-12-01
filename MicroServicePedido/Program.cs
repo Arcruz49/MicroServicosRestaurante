@@ -24,7 +24,7 @@ class Program
                 new SelectionPrompt<string>()
                     .Title("O que você gostaria de fazer?")
                     .PageSize(10)
-                    .AddChoices(new[] { "Listar Pedidos", "Pesquisar Pedido", "Criar um Pedido", "Deletar um Pedido", "Sair" }));
+                    .AddChoices(new[] { "Listar Pedidos", "Listar Clientes", "Listar Produtos", "Pesquisar Pedido", "Criar um Pedido", "Deletar um Pedido", "Sair" }));
 
             switch (option)
             {
@@ -43,6 +43,14 @@ class Program
 
                 case "Listar Pedidos":
                     await ListPedidos();
+                    break;
+
+                case "Listar Clientes":
+                    await ListClientes();
+                    break;
+
+                case "Listar Produtos":
+                    await ListProdutos();
                     break;
 
                 case "Pesquisar Pedido":
@@ -219,6 +227,88 @@ class Program
             {
                 var errorContent = await response.Content.ReadAsStringAsync();
                 AnsiConsole.MarkupLine($"[red]Erro. Código de status: {response.StatusCode}[/]");
+                AnsiConsole.MarkupLine($"[red]Detalhes do erro: {errorContent}[/]");
+            }
+        }
+        catch (Exception ex)
+        {
+            AnsiConsole.MarkupLine($"[red]Erro: {ex.Message}[/]");
+            AnsiConsole.MarkupLine($"[red]StackTrace: {ex.StackTrace}[/]");
+        }
+    }
+
+    private static async Task ListClientes()
+    {
+        try
+        {
+            HttpResponseMessage response = await client.GetAsync("api/clientes/GetClientes");
+
+            if (response.IsSuccessStatusCode)
+            {
+                string data = await response.Content.ReadAsStringAsync();
+
+                var clientes = JsonConvert.DeserializeObject<List<CadCliente>>(data);
+                if (clientes != null)
+                {
+                    var table = new Table();
+                    table.AddColumn("ID Cliente");
+                    table.AddColumn("Nome");
+                    table.AddColumn("Data Criação");
+
+                    foreach (var cliente in clientes)
+                    {
+                        table.AddRow(cliente.CdCliente.ToString(), cliente.NmCliente, cliente.DtCriacao?.ToString("dd/MM/yyyy"));
+                    }
+
+                    AnsiConsole.Write(table);
+                }
+            }
+            else
+            {
+                string errorContent = await response.Content.ReadAsStringAsync();
+                AnsiConsole.MarkupLine($"[red]Erro ao obter dados da API. Código de status: {response.StatusCode}[/]");
+                AnsiConsole.MarkupLine($"[red]Detalhes do erro: {errorContent}[/]");
+            }
+        }
+        catch (Exception ex)
+        {
+            AnsiConsole.MarkupLine($"[red]Erro: {ex.Message}[/]");
+            AnsiConsole.MarkupLine($"[red]StackTrace: {ex.StackTrace}[/]");
+        }
+    }
+
+    private static async Task ListProdutos()
+    {
+        try
+        {
+            HttpResponseMessage response = await client.GetAsync("api/cardapio/GetProdutos");
+
+            if (response.IsSuccessStatusCode)
+            {
+                string data = await response.Content.ReadAsStringAsync();
+
+                var produtos = JsonConvert.DeserializeObject<List<CadCardapio>>(data);
+                if (produtos != null)
+                {
+                    var table = new Table();
+                    table.AddColumn("ID Produto");
+                    table.AddColumn("Nome");
+                    table.AddColumn("Data Criação");
+                    table.AddColumn("Descrição");
+                    table.AddColumn("Preço");
+
+                    foreach (var produto in produtos)
+                    {
+                        table.AddRow(produto.CdPrato.ToString(), produto.NmPrato.ToString(), produto.DtCriacao?.ToString("dd/MM/yyyy"), produto.DsPrato.ToString(), produto.Preco.ToString());
+                    }
+
+                    AnsiConsole.Write(table);
+                }
+            }
+            else
+            {
+                string errorContent = await response.Content.ReadAsStringAsync();
+                AnsiConsole.MarkupLine($"[red]Erro ao obter dados da API. Código de status: {response.StatusCode}[/]");
                 AnsiConsole.MarkupLine($"[red]Detalhes do erro: {errorContent}[/]");
             }
         }

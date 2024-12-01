@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BBB1E7A-9B91-4003-89EC-62A50E0C3087}|MicroServicePedido\\MicroServicePedido.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\microservicos\\microservicepedido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BBB1E7A-9B91-4003-89EC-62A50E0C3087}|MicroServicePedido\\MicroServicePedido.csproj|solutionrelative:microservicepedido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96C2388D-B010-4F43-ADE7-760C8327B5C4}|MicroServiceReservas\\MicroServiceReservas.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\microservicos\\microservicereservas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C2388D-B010-4F43-ADE7-760C8327B5C4}|MicroServiceReservas\\MicroServiceReservas.csproj|solutionrelative:microservicereservas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BBB1E7A-9B91-4003-89EC-62A50E0C3087}|MicroServicePedido\\MicroServicePedido.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\microservicos\\microservicepedido\\resorcepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BBB1E7A-9B91-4003-89EC-62A50E0C3087}|MicroServicePedido\\MicroServicePedido.csproj|solutionrelative:microservicepedido\\resorcepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5FD6C20-0E95-4DE7-8A37-CF3F50427637}|MicroServiceProdutos\\MicroServiceProdutos.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\microservicos\\microserviceprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5FD6C20-0E95-4DE7-8A37-CF3F50427637}|MicroServiceProdutos\\MicroServiceProdutos.csproj|solutionrelative:microserviceprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19F18E30-A7A8-4746-95D4-A4559C490A9E}|MicroServiceClientes\\MicroServiceClientes.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\microservicos\\microserviceclientes\\microserviceclientes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{19F18E30-A7A8-4746-95D4-A4559C490A9E}|MicroServiceClientes\\MicroServiceClientes.csproj|solutionrelative:microserviceclientes\\microserviceclientes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5FD6C20-0E95-4DE7-8A37-CF3F50427637}|MicroServiceProdutos\\MicroServiceProdutos.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\microservicos\\microserviceprodutos\\cadcardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5FD6C20-0E95-4DE7-8A37-CF3F50427637}|MicroServiceProdutos\\MicroServiceProdutos.csproj|solutionrelative:microserviceprodutos\\cadcardapio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE216AD0-DE17-489A-A4C3-79BBD6E68EEC}|MicroServiceMesas\\MicroServiceMesas.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\microservicos\\microservicemesas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE216AD0-DE17-489A-A4C3-79BBD6E68EEC}|MicroServiceMesas\\MicroServiceMesas.csproj|solutionrelative:microservicemesas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19F18E30-A7A8-4746-95D4-A4559C490A9E}|MicroServiceClientes\\MicroServiceClientes.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\microservicos\\microserviceclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19F18E30-A7A8-4746-95D4-A4559C490A9E}|MicroServiceClientes\\MicroServiceClientes.csproj|solutionrelative:microserviceclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{96C2388D-B010-4F43-ADE7-760C8327B5C4}|MicroServiceReservas\\MicroServiceReservas.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\microservicos\\microservicereservas\\cadreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C2388D-B010-4F43-ADE7-760C8327B5C4}|MicroServiceReservas\\MicroServiceReservas.csproj|solutionrelative:microservicereservas\\cadreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{19F18E30-A7A8-4746-95D4-A4559C490A9E}|MicroServiceClientes\\MicroServiceClientes.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\microservicos\\microserviceclientes\\cadcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19F18E30-A7A8-4746-95D4-A4559C490A9E}|MicroServiceClientes\\MicroServiceClientes.csproj|solutionrelative:microserviceclientes\\cadcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F18E30-A7A8-4746-95D4-A4559C490A9E}|MicroServiceClientes\\MicroServiceClientes.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\microservicos\\microserviceclientes\\microserviceclientes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19F18E30-A7A8-4746-95D4-A4559C490A9E}|MicroServiceClientes\\MicroServiceClientes.csproj|solutionrelative:microserviceclientes\\microserviceclientes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE216AD0-DE17-489A-A4C3-79BBD6E68EEC}|MicroServiceMesas\\MicroServiceMesas.csproj|c:\\users\\arthur cruz\\documents\\projetos pessoais\\microservicos\\microservicemesas\\cadmesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE216AD0-DE17-489A-A4C3-79BBD6E68EEC}|MicroServiceMesas\\MicroServiceMesas.csproj|solutionrelative:microservicemesas\\cadmesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,32 +44,71 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServicePedido\\Program.cs",
-              "RelativeDocumentMoniker": "MicroServicePedido\\Program.cs",
-              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServicePedido\\Program.cs",
-              "RelativeToolTip": "MicroServicePedido\\Program.cs",
-              "ViewState": "AgIAAKkAAAAAAAAAAAAAwLkAAABXAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceReservas\\Program.cs",
+              "RelativeDocumentMoniker": "MicroServiceReservas\\Program.cs",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceReservas\\Program.cs",
+              "RelativeToolTip": "MicroServiceReservas\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwCwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T06:40:55.922Z",
+              "WhenOpened": "2024-12-01T22:53:34.496Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ResorcePedido.cs",
-              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServicePedido\\ResorcePedido.cs",
-              "RelativeDocumentMoniker": "MicroServicePedido\\ResorcePedido.cs",
-              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServicePedido\\ResorcePedido.cs",
-              "RelativeToolTip": "MicroServicePedido\\ResorcePedido.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAA0wAQAAAALAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CadReserva.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceReservas\\CadReserva.cs",
+              "RelativeDocumentMoniker": "MicroServiceReservas\\CadReserva.cs",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceReservas\\CadReserva.cs",
+              "RelativeToolTip": "MicroServiceReservas\\CadReserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T06:44:09.235Z",
+              "WhenOpened": "2024-12-01T23:25:36.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceClientes\\Program.cs",
+              "RelativeDocumentMoniker": "MicroServiceClientes\\Program.cs",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceClientes\\Program.cs",
+              "RelativeToolTip": "MicroServiceClientes\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwEwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:49:47.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceMesas\\Program.cs",
+              "RelativeDocumentMoniker": "MicroServiceMesas\\Program.cs",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceMesas\\Program.cs",
+              "RelativeToolTip": "MicroServiceMesas\\Program.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAwG0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:28:33.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CadCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceClientes\\CadCliente.cs",
+              "RelativeDocumentMoniker": "MicroServiceClientes\\CadCliente.cs",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceClientes\\CadCliente.cs",
+              "RelativeToolTip": "MicroServiceClientes\\CadCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T23:20:40.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MicroServiceClientes",
               "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceClientes\\MicroServiceClientes.csproj",
               "RelativeDocumentMoniker": "MicroServiceClientes\\MicroServiceClientes.csproj",
@@ -77,59 +116,20 @@
               "RelativeToolTip": "MicroServiceClientes\\MicroServiceClientes.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-01T06:41:08.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CadCardapio.cs",
-              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceProdutos\\CadCardapio.cs",
-              "RelativeDocumentMoniker": "MicroServiceProdutos\\CadCardapio.cs",
-              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceProdutos\\CadCardapio.cs",
-              "RelativeToolTip": "MicroServiceProdutos\\CadCardapio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T04:44:51.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceProdutos\\Program.cs",
-              "RelativeDocumentMoniker": "MicroServiceProdutos\\Program.cs",
-              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceProdutos\\Program.cs",
-              "RelativeToolTip": "MicroServiceProdutos\\Program.cs",
-              "ViewState": "AgIAAPEAAAAAAAAAAAAowAwBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T04:44:19.96Z",
+              "WhenOpened": "2024-12-01T22:49:44.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CadCliente.cs",
-              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceClientes\\CadCliente.cs",
-              "RelativeDocumentMoniker": "MicroServiceClientes\\CadCliente.cs",
-              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceClientes\\CadCliente.cs",
-              "RelativeToolTip": "MicroServiceClientes\\CadCliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Title": "CadMesa.cs",
+              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceMesas\\CadMesa.cs",
+              "RelativeDocumentMoniker": "MicroServiceMesas\\CadMesa.cs",
+              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceMesas\\CadMesa.cs",
+              "RelativeToolTip": "MicroServiceMesas\\CadMesa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T03:56:18.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceClientes\\Program.cs",
-              "RelativeDocumentMoniker": "MicroServiceClientes\\Program.cs",
-              "ToolTip": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\MicroServicos\\MicroServiceClientes\\Program.cs",
-              "RelativeToolTip": "MicroServiceClientes\\Program.cs",
-              "ViewState": "AgIAAOMAAAAAAAAAAAAowP4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T03:34:12.875Z",
+              "WhenOpened": "2024-12-01T22:32:53.314Z",
               "EditorCaption": ""
             }
           ]
