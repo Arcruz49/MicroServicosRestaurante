@@ -96,7 +96,7 @@ class Program
                         .AddColumn("Data Criação")
                         .AddColumn("Pratos")
                         .AddColumn("Preço Total")
-                        .Expand(); // Adiciona espaço proporcional entre as colunas
+                        .Expand();
 
                     foreach (var pedido in pedidos)
                     {
